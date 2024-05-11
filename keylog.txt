@@ -1,0 +1,5 @@
+[CTRL]\x13how can [SHIFT]I upload my whole code in github using Key.ctrl_rKey.downKey.down
+Key.rightKey.rightKey.rightKey.rightKey.rightKey.leftKey.rightKey.rightKey.rightKey.rightKey.rightKey.right[CTRL]\x03[CTRL]\x16git init
+git add .
+   got - commit - [SHIFT]" [BACKSPACE][SHIFT]"Key.lefta[BACKSPACE]Key.leftKey.leftamKey.rightKey.right
+Key.upKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.leftKey.left[BACKSPACE]i[ALT][TAB][ALT][TAB]Key.rightKey.rightKey.right[BACKSPACE][BACKSPACE][ALT][TAB][ALT][TAB]Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.right
